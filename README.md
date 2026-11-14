@@ -21,7 +21,7 @@ and **xt3d**. The owner: "UPBGE are examples we should produce, we have a bunch 
 | CUBE_INVADERS | invader rows of cubes | SkyRaiders (closest) | an exact Cube Invaders |
 | SideScroll_Shooter | side-scrolling shooter | - | **new** |
 | Dodge_Tunnel | cubes fly at you down a tunnel from 4 spawners; dodge in x/y | RockField (closest) | **new** |
-| TrenchRun_Torus_IV | ride the trench of a torus, pillboxes fire, camera on the player | - | **new** |
+| TrenchRun_Torus_IV | ride the trench of a torus, pillboxes fire, camera on the player | **TrenchRun** (done 2026-11-13, LIB_GAMES `upbge-demos`) | xt3d bench check |
 | Simple_Player_Maze (+ _Waypoints) | player in a maze; patrols on waypoints | DotMaze, PromptAndGlazeMaze | waypoint patrols as a demo |
 | Pits_Vines_Ladders | platformer: pits, vines, ladders | VineRun, ShaftDescent | ladders |
 | 3rd_Person_follow_camera | third-person character, following camera | Amazing Couple | - |
