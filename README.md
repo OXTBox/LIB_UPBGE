@@ -32,3 +32,7 @@ and **xt3d**. The owner: "UPBGE are examples we should produce, we have a bunch 
 | TextScroll2 | a title and a text crawl moving away | Sequencer Type / Term | a crawl clip |
 | TextReader_filepath / _textBlock | read text from a file / a text block into the game | Sequencer, LIB_GENERICA | - |
 | path_to_scripts | utility: where the scripts are | - | - |
+
+## Licence
+
+MIT (see `LICENSE`), Copyright (c) 2026 xAction.
